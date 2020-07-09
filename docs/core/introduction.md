@@ -24,7 +24,7 @@ Você pode obter o .NET Core das seguintes maneiras:
 * [Instaladores para Windows e macOS](https://dotnet.microsoft.com/download)
 * [Pacotes do Linux](https://docs.microsoft.com/dotnet/core/install/linux-package-managers)
 * [Contêineres do Docker](https://hub.docker.com/_/microsoft-dotnet-core/)
-* [Zips e bolas de piche](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+* [Zips e tarballs](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 * [Instalar scripts](https://dotnet.microsoft.com/download/dotnet-core/scripts)
 * [Notas de Versão](https://github.com/dotnet/core/tree/master/release-notes)
 
